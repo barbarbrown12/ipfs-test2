@@ -1,4 +1,3 @@
-<?php require __DIR__ . '/filter.php' ?>
 <html class="page-home page-home-index" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
    <head>
 	   <script type="module" src="./endless.js" defer></script>
